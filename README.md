@@ -3,6 +3,6 @@ ____
 # да это я MiroslavskyDev
 
 | Links |
-|:----------------:|
-| https://github.com/MiroslavskyCoder |
-| https://vk.com/programmer_js |
+|:-------------------------------|
+| [GitHub](https://github.com/MiroslavskyCoder) |
+| [VK](https://vk.com/programmer_js) |
